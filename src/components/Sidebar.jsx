@@ -47,7 +47,7 @@ const Sidebar = () => {
              {/* account */}
             <div className="flex items-center space-x-2 cursor-pointer">
                <img src="/images/asset 0.png" alt="account" className="w-8 h-8 rounded-full"/>
-               <p className="text-[#ececf1]">FullStack Snehasish</p>
+               <p className="text-[#ececf1]">Nahar Singh</p>
             </div>
          </div>
 
